@@ -1,0 +1,4 @@
+endpoint to createfile
+/createfile
+endpoint to to retrieve all files
+/readfile
